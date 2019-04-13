@@ -44,4 +44,7 @@ class MastermindTests {
     @Test
     fun testCoursera4Position() = testEvaluation("FBAE", "CBFE", 2, 1)
 
+    @Test
+    fun testCoursera5Position() = testEvaluation("FBAE", "AFDC", 0, 2)
+
 }

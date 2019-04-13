@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e15a02-b171-42b5-8ca6-28eaa9a559b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/assignmentKey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/partId" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/src/nicestring/NiceString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/test/nicestring/TestNiceString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/assignmentKey" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/partId" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/src/taxipark/TaxiPark.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TaxiParkTestUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask1FakeDrivers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask2FaithfulPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask3FrequentPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask4SmartPassengers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask6ParetoPrinciple.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/Lateinit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/NPEInitialization.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/UnstableVal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/main/META-INF/Mastermind-Task_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/main/mastermind/EvaluateGuessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/main/mastermind/EvaluateGuessKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/main/mastermind/Evaluation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/main/mastermind/Evaluation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/test/META-INF/Mastermind-Task_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/java/test/mastermind/MastermindTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/kotlin/test/mastermind/MastermindTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/classes/kotlin/test/mastermind/MastermindTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/classes/mastermind.MastermindTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/classes/mastermind.MastermindTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/packages/mastermind.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/reports/tests/test/packages/mastermind.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/TEST-mastermind.MastermindTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/TEST-mastermind.MastermindTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/test/mastermind/MastermindTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 2/Mastermind/Task/test/mastermind/MastermindTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/KotlinAssigmentWeek3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/out/production/KotlinAssigmentWeek3/META-INF/KotlinAssigmentWeek3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/out/production/KotlinAssigmentWeek3/com/woowrale/kotlinlabs/KotlinExtensionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/out/production/KotlinAssigmentWeek3/com/woowrale/kotlinlabs/KotlinSafeCastKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/src/com/woowrale/kotlinlabs/KotlinExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssigmentWeek3/src/com/woowrale/kotlinlabs/KotlinSafeCast.kt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/woowrale/kotlinlabs/NPEInitialization.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/UnstableVal.kt" />
+        <option value="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/Lateinit.kt" />
+        <option value="$PROJECT_DIR$/src/com/woowrale/kotlinlabs/NPEInitialization.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/apps/build/maven/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1380" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KotlinAssignmentWeek4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinAssignmentWeek4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinAssignmentWeek4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinAssignmentWeek4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinAssignmentWeek4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinAssignmentWeek4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinlabs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../workspaces/ws_micronaut/microservices" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.woowrale.kotlinlabs.NPEInitializationKt">
+    <configuration name="com.woowrale.kotlinlabs.LateinitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAssignmentWeek4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.woowrale.kotlinlabs.LateinitKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.woowrale.kotlinlabs.NPEInitializationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAssignmentWeek4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.woowrale.kotlinlabs.NPEInitializationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.woowrale.kotlinlabs.UnstableValKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinAssignmentWeek4" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.woowrale.kotlinlabs.UnstableValKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.woowrale.kotlinlabs.NPEInitializationKt" />
+        <item itemvalue="Kotlin.com.woowrale.kotlinlabs.LateinitKt" />
+        <item itemvalue="Kotlin.com.woowrale.kotlinlabs.UnstableValKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e15a02-b171-42b5-8ca6-28eaa9a559b0" name="Default Changelist" comment="" />
+      <created>1554995585573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554995585573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982924" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32951945" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32951945" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/woowrale/kotlinlabs/UnstableVal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/woowrale/kotlinlabs/Lateinit.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/woowrale/kotlinlabs/NPEInitialization.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
