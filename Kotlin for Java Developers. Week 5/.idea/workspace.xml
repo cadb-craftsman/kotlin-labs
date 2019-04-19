@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8827cd58-e71b-4fa0-b380-5c18cec85999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek4/src/com/woowrale/kotlinlabs/Equality.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek5/src/com/woowrale/kotlinlabs/Auxiliars.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek5/src/com/woowrale/kotlinlabs/Fibonacci.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek5/src/com/woowrale/kotlinlabs/InlineFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek5/src/com/woowrale/kotlinlabs/MemberExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/main/taxipark/TaxiParkTaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/main/taxipark/TaxiParkTaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/META-INF/Taxi_Park-Task.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TaxiParkTestUtilKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask1FakeDrivers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask2FaithfulPassengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask3FrequentPassengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask4SmartPassengers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/build/classes/java/test/taxipark/TestTask6ParetoPrinciple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 3/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/Kotlin_for_Java_Developers._Week_31.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Nice String/Task/Nice_String-Task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Nice String/Task/Nice_String-Task_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Nice String/Task/Nice_String-Task_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Taxi Park/Task/Taxi_Park-Task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Taxi Park/Task/Taxi_Park-Task_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/Taxi Park/Task/Taxi_Park-Task_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/util/util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/util/util_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/modules/util/util_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/study_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/assignmentKey" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/partId" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/src/nicestring/NiceString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Nice String/Task/test/nicestring/TestNiceString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/assignmentKey" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/partId" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/src/taxipark/TaxiPark.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/src/taxipark/TaxiParkTask.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TaxiParkTestUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask1FakeDrivers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask2FaithfulPassengers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask3FrequentPassengers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask4SmartPassengers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask5TheMostFrequentTripDurationPeriod.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/Taxi Park/Task/test/taxipark/TestTask6ParetoPrinciple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin for Java Developers. Week 31/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssignmentWeek4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KotlinAssignmentWeek4/out/production/KotlinAssignmentWeek4/META-INF/KotlinAssignmentWeek4.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../KotlinAssignmentWeek4/out/production/KotlinAssignmentWeek4/META-INF/KotlinAssignmentWeek4.kotlin_module" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Games/Task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Games/Task/build/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/apps/build/maven/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Kotlin_for_Java_Developers._Week_5.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/util/util.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_test.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_main.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/util/util_test.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules/util/util_main.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/gradle.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_30.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_30.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_30.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_30.xml" />
+        <option value="$PROJECT_DIR$/.idea/study_project.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1380" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+              <item name="gameOfFifteen" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+              <item name="board" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+              <item name="game2048" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_5" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 5" type="ed842865:CourseNode" />
+              <item name="Games" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="games" type="61faebc3:DirectoryNode" />
+              <item name="gameOfFifteen" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../workspaces/ws_micronaut/microservices" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8827cd58-e71b-4fa0-b380-5c18cec85999" name="Default Changelist" comment="" />
+      <created>1555623790984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555623790984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Task" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteenHelper.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="273">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteenInitializer.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="399">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/Task/test/games/board/TestSquareBoard.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/Task/test/games/board/TestGameBoard.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/Task/src/games/gameOfFifteen/GameOfFifteen.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="189">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
